@@ -5,6 +5,7 @@
 - Cambio en la rama Pablo 
 
 
+- Cambio Marian, genero un conficto ya que ambos editamos a la vez el archivo 
 - Cambios generados por Pablo 
 - **************************Generando mas conclictos***************************** 
 
