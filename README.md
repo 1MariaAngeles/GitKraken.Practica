@@ -3,3 +3,8 @@
 - Nombres:
 - María Ángeles y Pablo Rafael
 - Cambio en la rama Pablo 
+
+
+- Cambios generados por Pablo 
+- **************************Generando mas conclictos***************************** 
+
